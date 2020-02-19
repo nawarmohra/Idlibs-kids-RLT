@@ -262,7 +262,7 @@
   height: 900px;
   text-align: right;
   font-family: cairo;
-  background-image: url(./img/ID3.jpg);
+  background-image: url(img/ID3.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -275,7 +275,7 @@
   height: 880px;
   font-family: cairo;
   padding-left: 10%;
-  background-image: url(./img/ID3.jpg);
+  background-image: url(img/ID3.jpg);
   background-size: cover;
   background-position: right;
   padding: 1em;
@@ -304,7 +304,7 @@
 width: 100%;
 height: auto;
 color: #fff;
-background-image: url(./img/ID2.jpg);
+background-image: url(img/ID2.jpg);
 counter-increment: gallery-cell;
 background-repeat: no-repeat;
 margin: auto;
@@ -330,7 +330,7 @@ background-position: bottom;
   .gallery-cell {
     width: 100%;
     height: 900px;
-    background-image: url(./img/img1.jpg);
+    background-image: url(img/img1.jpg);
     counter-increment: gallery-cell;
     background-repeat: no-repeat;
     margin: auto;
@@ -340,7 +340,7 @@ background-position: bottom;
   .gallery-cell1 {
     width: 100%;
     height: 900px;
-    background-image: url(./img/img2.jpg);
+    background-image: url(img/img2.jpg);
     counter-increment: gallery-cell;
     background-repeat: no-repeat;
     margin: auto;
@@ -369,7 +369,7 @@ background-position: bottom;
     direction: rtl;
     padding: 3em;
     text-align: right;
-    background-image: url(./img/b-1-1030x581-1.jpg);
+    background-image: url(img/b-1-1030x581-1.jpg);
     background-repeat: no-repeat;
     margin: auto;
     background-size: cover;
@@ -386,7 +386,7 @@ background-position: bottom;
   .gallery-cell2 {
     width: 100%;
     height: 900px;
-    background-image: url(./img/ID1.jpg);
+    background-image: url(img/ID1.jpg);
     counter-increment: gallery-cell;
     background-repeat: no-repeat;
     margin: auto;
@@ -396,7 +396,7 @@ background-position: bottom;
   .gallery-cell3 {
     width: 100%;
     height: 900px;
-    background-image: url(./img/ID2.jpg);
+    background-image: url(img/ID2.jpg);
     counter-increment: gallery-cell;
     background-repeat: no-repeat;
     margin: auto;
@@ -416,7 +416,7 @@ background-position: bottom;
     text-align: right;
     direction: rtl;
     padding: 1em;
-    background-image: url(./img/ID5.jpg);
+    background-image: url(img/ID5.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -504,7 +504,7 @@ width:80% ; height:auto; padding-right: 0;  padding-top: 1%;
   .section9{
     font-family: cairo;
     padding: 1em;
-    background-image: url(./img/b-4-1030x581-1.jpg);
+    background-image: url(img/b-4-1030x581-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -512,7 +512,7 @@ width:80% ; height:auto; padding-right: 0;  padding-top: 1%;
   .desktop-section10{
     font-family: cairo;
     display: grid; 
-    background-image: url(./img/b-1-1030x581-1.jpg);
+    background-image: url(img/b-1-1030x581-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right;
@@ -521,7 +521,7 @@ width:80% ; height:auto; padding-right: 0;  padding-top: 1%;
   .mobile-section10 {
     font-family: cairo;
     display: none;
-    background-image: url(./img/b-1-1030x581-1.jpg);
+    background-image: url(img/b-1-1030x581-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 1em;
