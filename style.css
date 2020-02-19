@@ -1,7 +1,4 @@
 @media only screen and (max-width: 600px) {
-  .html .body{
-    max-width: 100%;
-  }
 
   .section1-desktop {
     max-width: 100%;
@@ -59,9 +56,6 @@
 }
 
 @media only screen and (max-width: 768px) {
-  .html .body{
-    max-width: 100%;
-  }
 
   .section1-desktop {
     max-width: 100%;
@@ -118,9 +112,7 @@
 }
 
 @media only screen and (max-width: 400px) {
-  .html .body{
-    max-width: 100%;
-  }
+
 
   .section1-desktop {
     max-width: 100%;
@@ -177,9 +169,7 @@
 }
 
 @media screen and (max-width: 768px) {
-  .html .body{
-    max-width: 100%;
-  }
+
   
   .section1-desktop {
     max-width: 100%;
@@ -239,7 +229,6 @@
 
 
 #body , html {
-  max-width: 100%;
     position: absolute;
     font-family: cairo;
     font-size: 19px;
